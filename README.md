@@ -1,4 +1,4 @@
-# Sistema Bancário Intermediário
+# Sistema Bancário Avançado
 
 Este é um projeto de um sistema bancário avançado em Python que permite aos usuários realizar depósitos, saques, criar novas contas e usuários, listar contas e visualizar o extrato. O sistema possui um menu interativo e mantém o saldo e as transações dos usuários.
 
